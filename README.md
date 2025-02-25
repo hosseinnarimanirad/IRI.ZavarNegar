@@ -1,0 +1,2 @@
+# IRI.ZavarNegar
+MapServer
