@@ -1,0 +1,6 @@
+@IRI.ZavarNegar_HostAddress = http://localhost:5168
+
+GET {{IRI.ZavarNegar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
